@@ -18,14 +18,15 @@ A desktop GUI application built using **Java Swing** that allows users to add, c
 ## 💻 Technologies Used
 
 - Java (JDK 8 or above)
-- Swing (AWT, JLabel, JComboBox, JTextField, JList, JPanel)
-- Vector and List handling
+- Swing components (JFrame, JPanel, JLabel, JTextField, JComboBox, JList, JScrollPane, JButton)
+- Vector and List handling for dynamic updates
 
 ---
 
-## 🛠️ How to Run
+## 👩‍💻 Author
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/iamsohinibanerjee/Book-List-App.git
-   cd Book-List-App
+**Sohini Banerjee**  
+🎓 *4th Year B.Tech (IT)*  
+🏫 *RCC Institute of Information Technology*  
+🔗 [GitHub](https://github.com/iamsohinibanerjee)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sohini-banerjee-81b9b1371/)
